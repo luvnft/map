@@ -38,7 +38,7 @@ function Menu() {
                 <div className="alignRight">
                     <NavItem className="navbarItem" style={{ listStyleType: "none" }}>
                         <Link className="nav-link" to="https://discord.com/channels/910051231437819914/shop">
-                            <span>SUBSCRIBE</span>
+                            <span>▶️ Subscribe</span>
                         </Link>
                     </NavItem>
                 </div>
