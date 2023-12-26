@@ -68,7 +68,7 @@ hr {
   width: 65px;
   margin: 0 0 0;
   border-width: 4px;
-  border-color: #6354B3;
+  border-color: #2C0073;
 }
 
 sup {
@@ -542,7 +542,7 @@ h3,
   }
 
   100% {
-    color: #6354B3;
+    color: #2C0073;
   }
 }
 
@@ -552,7 +552,7 @@ h3,
   }
 
   100% {
-    color: #6354B3;
+    color: #2C0073;
   }
 }
 
@@ -857,7 +857,7 @@ section.padding-xlg {
 .btn-primary.inverse {
   background: #fff;
   color: #1f1f29;
-  border-bottom: 4px solid #6354B3;
+  border-bottom: 4px solid #2C0073;
 }
 
 .btn-primary.inverse:hover,
@@ -883,7 +883,7 @@ section.padding-xlg {
   height: 20px;
   margin-right: 6px;
   vertical-align: text-bottom;
-  fill: #6354B3;
+  fill: #2C0073;
 }
 
 .btn-transparent:hover,
@@ -1369,7 +1369,7 @@ ul.skill li .skill-bar .skill-tip {
   font-size: 11px;
   font-weight: 400;
   line-height: 11px;
-  background-color: #6354B3;
+  background-color: #2C0073;
   color: #fff;
 }
 
@@ -1381,7 +1381,7 @@ ul.skill li .skill-bar .skill-tip:after {
   width: 0;
   height: 0;
   border: 6px solid transparent;
-  border-top-color: #6354B3;
+  border-top-color: #2C0073;
   border-bottom: 0;
   margin-left: -6px;
   margin-bottom: -6px;
@@ -1419,7 +1419,7 @@ ul.skill-dots li .skill-progress i {
 }
 
 ul.skill-dots li .skill-progress i.active {
-  color: #6354B3;
+  color: #2C0073;
 }
 
 ul.skill-dots li .skill-progress i.active:nth-child(1) {
@@ -1529,7 +1529,7 @@ ul.skill-dots li .skill-progress i:before {
 
 .timeline-centered .timeline-entry .timeline-entry-inner .timeline-label {
   position: relative;
-  background: #6354B3;
+  background: #2C0073;
   padding: 0 13px;
   margin-left: 10px;
   -webkit-background-clip: padding-box;
@@ -1552,7 +1552,7 @@ ul.skill-dots li .skill-progress i:before {
   height: 0;
   border-style: solid;
   border-width: 13px 9px 13px 0;
-  border-color: transparent #6354B3 transparent transparent;
+  border-color: transparent #2C0073 transparent transparent;
 }
 
 .timeline-centered .timeline-entry .timeline-entry-inner .company {
@@ -2515,7 +2515,7 @@ header .resume-designation span.border {
   max-width: 290px;
   height: 4px;
   margin-right: 25px;
-  background-color: #6354B3;
+  background-color: #2C0073;
 }
 
 @media all and (max-width: 480px) {

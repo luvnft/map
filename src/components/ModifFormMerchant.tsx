@@ -14,7 +14,7 @@ import Pin from './pin';
 import IMerchant from '../ts/IMerchant';
 
 //Token variable and default settings for map camera
-const TOKEN = 'pk.eyJ1IjoicHduc3RlcG8iLCJhIjoiY2w3YWltaDBrMHNyMzNxbzhrbWR3cG54byJ9.VzxNCsvHqjjolwUOn1VAdQ';
+const TOKEN = 'pk.eyJ1IjoibHV2bmZ0IiwiYSI6ImNscGN5dmcwajA0NHgyd28wZGl0N2YydWwifQ.Wajxh7HVAF_eJ9t03jbArw';
 const initialViewState = {
     latitude: 50.065,
     longitude: 14.498,
@@ -203,7 +203,7 @@ function ModifFormMerchant(props: IModifFormMerchantProps = {}) {
                             <td>
                                 <Map
                                     initialViewState={initialViewState}
-                                    mapStyle="mapbox://styles/pwnstepo/cl7aiq2qd003g15nqmwwpyglr"
+                                    mapStyle="mapbox://styles/luvnft/ckzxd3u32003614pqfhcjx39r"
                                     mapboxAccessToken={TOKEN}
                                 >
                                     <Marker

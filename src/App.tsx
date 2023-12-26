@@ -60,11 +60,11 @@ function App() {
             <Col>
               <header>
                 <div className="resume-title">
-                  <h2>Bitcoin</h2>
-                  <h2>Lightning Network ⚡</h2>
+                  <h2> ⚡ ///W3B</h2>
+                  <h1>Own and promote your business address and products using What3Words, or collect $RNT on our Bitcoin Lightning Map.</h1>
                   <div className="resume-designation extra-offset-md">
                     <span className="border"></span>
-                    <span>Prague, Czech Republic</span>
+                    <span>WEB5</span>
                   </div>
                 </div>
               </header>
@@ -91,7 +91,7 @@ function App() {
               </Routes>
             </Col>
           </Row>
-          <Row><Col><p className="alignCenter">by pwnstepo.io</p></Col></Row>
+          <Row><Col><p className="alignCenter">Made with luvnft.com</p></Col></Row>
         </Container>
       </div>
     </Router>

@@ -16,8 +16,8 @@ Everybody will be able to Register / Sign Up With Google to add pin to our map s
 ## Design
 These colors are used in our application: 
 - Black ![#000000](https://via.placeholder.com/15/000000/000000?text=+) `#000000` - normal.
-- Orange ![#FAC55E](https://via.placeholder.com/15/FAC55E/000000?text=+) `#FAC55E` - Bitcoin.
-- Purple ![#6354B3](https://via.placeholder.com/15/6354B3/000000?text=+) `#6354B3` - Lightning.
+- Orange ![#F7931A](https://via.placeholder.com/15/F7931A/000000?text=+) `#F7931A` - Bitcoin.
+- Purple ![#2C0073](https://via.placeholder.com/15/2C0073/000000?text=+) `#2C0073` - Lightning.
 
 Symbols for background (their 32x32 icon `png` equivalent in ![#F6F8FA](https://via.placeholder.com/15/F6F8FA/000000?text=+) `#F6F8FA`):
 - Bitcoin ₿ (12.5deg. rot).

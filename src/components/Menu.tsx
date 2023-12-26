@@ -16,7 +16,7 @@ function Menu() {
         <div>
             <Navbar color="white" light expand="md">
                 <Link /*onClick={() => console.log("home-pressed")}*/ className="navRemoveUnderscoreInLinkA navbarHomeBtn" to="/">
-                    <span>DOMŮ</span>
+                    <span>🗺️ Map</span>
                 </Link>
                 <span>&nbsp;</span>
                 <span>&nbsp;</span>
@@ -25,20 +25,20 @@ function Menu() {
                     <Nav className="mr-auto" navbar>
                         <NavItem className="navbarItem">
                             <Link className="nav-link" to="/eshops">
-                                <span>E-SHOPS</span>
+                                <span>🟧 Block</span>
                             </Link>
                         </NavItem>
                         <NavItem className="navbarItem">
                             <Link className="nav-link" to="/about">
-                                <span>ABOUT</span>
+                                <span>📖 About</span>
                             </Link>
                         </NavItem>
                     </Nav>
                 </Collapse>
                 <div className="alignRight">
                     <NavItem className="navbarItem" style={{ listStyleType: "none" }}>
-                        <Link className="nav-link" to="/login">
-                            <span>ADMINISTRATION</span>
+                        <Link className="nav-link" to="https://discord.com/channels/910051231437819914/shop">
+                            <span>SUBSCRIBE</span>
                         </Link>
                     </NavItem>
                 </div>

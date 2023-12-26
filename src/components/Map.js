@@ -4,7 +4,7 @@ import '../App.css';
 //TODO https://github.com/visgl/react-map-gl/issues/1266
 import light64 from '../icons/light64.png'
 
-mapboxgl.accessToken = "pk.eyJ1IjoicHduc3RlcG8iLCJhIjoiY2w3YWltaDBrMHNyMzNxbzhrbWR3cG54byJ9.VzxNCsvHqjjolwUOn1VAdQ";
+mapboxgl.accessToken = "pk.eyJ1IjoibHV2bmZ0IiwiYSI6ImNscGN5dmcwajA0NHgyd28wZGl0N2YydWwifQ.Wajxh7HVAF_eJ9t03jbArw";
 // eslint-disable-next-line import/no-webpack-loader-syntax
 mapboxgl.workerClass = require("worker-loader!mapbox-gl/dist/mapbox-gl-csp-worker").default;
 
@@ -14,8 +14,8 @@ const Map = (props: any) => {
   useEffect(() => {
     const map = new mapboxgl.Map({
       container: mapContainerRef.current,
-      style: "mapbox://styles/pwnstepo/cl7aiq2qd003g15nqmwwpyglr",
-      center: [14.498, 50.065],
+      style: "mapbox://styles/luvnft/ckzxd3u32003614pqfhcjx39r",
+      center: [-118.777436, 34.024728],
       zoom: 10.35,
     });
 
@@ -61,7 +61,7 @@ const Map = (props: any) => {
 
   return (
     <>
-      <h1 className="title">Merchants accepting LN</h1>
+      <h1 className="title">Merchants accepting $BTC</h1>
       <hr />
       <div className="map-container" ref={mapContainerRef} />
     </>

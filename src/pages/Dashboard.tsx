@@ -89,7 +89,7 @@ function Dashboard() {
                         <div className="dashboard boxed">
                             <div className="dashboard__container" style={{ textAlign: "center" }}>
                                 {(!user)
-                                    ? <Pwnspinner color="#FAC55E" thickness={10} />
+                                    ? <Pwnspinner color="#F7931A" thickness={10} />
                                     : <>
                                         <div>Welcome back <b>{user?.displayName}</b></div>
                                         <div>aka <b>{user?.email}</b> {/* / {user?.uid} */}</div>
@@ -140,7 +140,7 @@ function Dashboard() {
                         </Table>
                     </Col>
                     <Col>
-                        <h1 className="title">E-shops</h1>
+                        <h1 className="title">Block</h1>
                         <hr />
                         <div>&nbsp;</div>
                         <Link className="nav-link" to="/eshops/add">
